@@ -1,5 +1,5 @@
 # PacMan-Exercise
-<img src="pacman1" width='300'/>
+<img src="PacMan1.png" width='300'/>
 
 ##Description
 
